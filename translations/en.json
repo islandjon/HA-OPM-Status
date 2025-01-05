@@ -1,0 +1,13 @@
+{
+    "title": "OPM Status",
+    "description": "Tracks the current OPM reporting status.",
+    "config": {
+      "step": {
+        "user": {
+          "title": "Setup OPM Status",
+          "description": "Configure the OPM Status sensor."
+        }
+      }
+    }
+  }
+  

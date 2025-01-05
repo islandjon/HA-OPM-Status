@@ -1,0 +1,9 @@
+{
+    "name": "OPM Status",
+    "content_in_root": false,
+    "domains": ["opm_status"],
+    "country": "US",
+    "homeassistant": "2023.1.0",
+    "iot_class": "Cloud Polling"
+  }
+  
