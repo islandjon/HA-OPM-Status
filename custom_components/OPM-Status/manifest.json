@@ -2,9 +2,9 @@
     "domain": "opm_status",
     "name": "OPM Status",
     "version": "1.0.0",
-    "documentation": "https://github.com/yourusername/ha-opm-status",
+    "documentation": "https://github.com/islandjon/ha-opm-status",
     "dependencies": [],
-    "codeowners": ["@yourusername"],
+    "codeowners": ["@islandjon"],
     "requirements": ["beautifulsoup4>=4.12.0", "requests>=2.31.0"]
   }
   
