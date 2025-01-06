@@ -1,0 +1,9 @@
+{
+  "domain": "opm_status",
+  "name": "OPM Status",
+  "version": "1.0",
+  "documentation": "https://github.com/yourusername/opm_status",
+  "dependencies": [],
+  "codeowners": ["@yourusername"],
+  "requirements": ["requests"]
+}

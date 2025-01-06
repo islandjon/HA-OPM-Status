@@ -1,0 +1,13 @@
+sensor:
+  - platform: opm_status
+
+lovelace:
+  resources:
+    - url: /local/opm_status_card.js
+      type: module
+
+views:
+  - title: OPM Status
+    cards:
+      - type: 'custom:opm-status-card'
+        entity: sensor.opm_status

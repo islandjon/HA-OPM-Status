@@ -1,0 +1,91 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+*.egg
+*.env
+*.venv
+Pipfile
+Pipfile.lock
+poetry.lock
+.env
+.env.*
+
+# Byte-compiled or compiled code
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Pytest cache
+.cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+.cache/
+coverage.xml
+nosetests.xml
+
+# Distribution and packaging
+dist/
+build/
+*.egg-info/
+MANIFEST
+
+# Docker
+*.stackdump
+.docker/
+docker-compose.override.yml
+docker-compose.override.yaml
+Dockerfile.*
+*.tar
+*.gz
+
+# VS Code and IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+
+# Logs
+*.log
+*.out
+*.err
+debug.log
+npm-debug.log
+yarn-error.log
+node_modules/
+
+# Generated files and archives
+*.zip
+*.tar.gz
+*.rar
+
+# Temporary files
+tmp/
+temp/
+logs/
+*.bak
+*.tmp
+prompt
+.gpte_consent
+Structure

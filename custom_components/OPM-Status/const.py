@@ -1,1 +1,0 @@
-DOMAIN = "opm_status"
